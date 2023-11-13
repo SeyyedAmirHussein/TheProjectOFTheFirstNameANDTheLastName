@@ -30,8 +30,8 @@ void loop () {
     Serial.print (" * * * * The Last Name : * * * * ");                                                                                          // Show The Desired Message .
 
 
-    Serial.println (TheFirstName);                                                                                                         // Show The Desired Message .
-    Serial.println (TheLastName);                                                                                                         // Show The Desired Message .
+    Serial.println (TheFirstName);                                                                                                           // Show The Desired Message .
+    Serial.println (TheLastName);                                                                                                           // Show The Desired Message .
 
 
   }
