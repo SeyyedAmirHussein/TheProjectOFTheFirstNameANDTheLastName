@@ -2,7 +2,7 @@
 
 // The Main Code OF The Project OF The First Name , AND & The Last Name . .C
 
-// In this program. We want to Receive The First Name and The Last Name from the Serial and print them on the Serial Monitor .
+// In this program. We want to Receive The First Name and The Last Name from The Serial and print them on The Serial Monitor .
 
 
 
