@@ -22,16 +22,16 @@ void loop () {
   if (Serial.available () ) {
 
 
-    String The First Name = Serial.readString ();
-    String The Last Name = Serial.readString ();
+    String TheFirstName = Serial.readString ();
+    String TheLastName = Serial.readString ();
 
 
     Serial.print (" * * * * The First Name : * * * * ");                                                                                          // Show The Desired Message .
     Serial.print (" * * * * The Last Name : * * * * ");                                                                                          // Show The Desired Message .
 
 
-    Serial.println (The First Name);                                                                                                         // Show The Desired Message .
-    Serial.println (The Last Name);                                                                                                         // Show The Desired Message .
+    Serial.println (TheFirstName);                                                                                                         // Show The Desired Message .
+    Serial.println (TheLastName);                                                                                                         // Show The Desired Message .
 
 
   }
